@@ -1,4 +1,4 @@
-# vue3_demo
+# vue2_demo
 
 ## Project setup
 ```
